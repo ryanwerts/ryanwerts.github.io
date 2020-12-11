@@ -1,3 +1,2 @@
 theme: jekyll-theme-slate
-title: null
-name: Testing123
+site.name: Testing123
